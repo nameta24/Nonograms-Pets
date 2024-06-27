@@ -32,15 +32,14 @@ Players solve nonograms to unlock chests containing pets. Pets can be used as co
 ## Screenshots
 
 ![1](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading.png)
-![2](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-1.png)
-![3](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-3.png)
-![4](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-4.png)
-![5](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-5.png)
+![2](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-4.png)
+![3](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-2.png)
+![4](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-1.png)
+![5](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-3.png)
 ![6](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-6.png)
 ![5](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-7.png)
 
 
-Replace `link_to_image` with actual URLs to your screenshots.
 
 ## Technologies Used
 
