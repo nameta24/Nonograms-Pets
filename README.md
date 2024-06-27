@@ -31,8 +31,8 @@ Players solve nonograms to unlock chests containing pets. Pets can be used as co
 
 ## Screenshots
 
-![1](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading.png)
-![2](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-4.png)
+![1](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-4.png)
+![2](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading.png)
 ![3](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-2.png)
 ![4](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-1.png)
 ![5](https://github.com/nameta24/Nonograms-Pets/blob/New/Images/Loading-3.png)
